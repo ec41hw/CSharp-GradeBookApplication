@@ -26,6 +26,11 @@ namespace GradeBook
         [JsonIgnore]
         public double GPA { get; set; }
 
+        internal static object OrderByDescending(Func<object, object> p)
+        {
+            throw new NotImplementedException();
+        }
+
         public Student(string name, StudentType studentType, EnrollmentType enrollment)
         {
             Name = name;

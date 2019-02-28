@@ -1,0 +1,10 @@
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+\\lon0302.london.schroders.com\dfs\home3\users\wallish\My Documents\GitHub\CSharp-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
